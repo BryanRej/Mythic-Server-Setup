@@ -44,7 +44,6 @@ Navigating the Mythic repository and retrieving authentication information for t
 <img src="https://i.imgur.com/bbK5GEB.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/KuMZ5eE.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/zqmk812.png" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
 <br />
 
 Navigating the login and homepage for the Mythic web server.<br/>
