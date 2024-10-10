@@ -1,7 +1,7 @@
 <h1>Mythic Server Setup</h1>
 
 <h2>Description</h2>
-This project is an extension of the SOC Homelab project and uses the Ubuntu 22.04 x64 operating system. Disclaimer: *This is for educational purposes only*
+This project is an extension of the SOC Homelab project and uses the Ubuntu 22.04 x64 operating system. Disclaimer: * This is for educational purposes only. *
 <br />
 
 
