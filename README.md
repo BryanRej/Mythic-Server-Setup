@@ -53,16 +53,19 @@ Navigating the login and homepage for the Mythic web server.<br/>
 <img src="https://i.imgur.com/ArFXOio.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Installing the Mythic agent Apollo. Different Mythic agents contain varying capabilities.<br/>
+Installing the Mythic Agent Apollo. Different agents have varying capabilities.<br/>
 <img src="https://i.imgur.com/EwkLE7X.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/2WcwsZ3.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/IHpvd1g.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/7eTxMxH.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
-Retrieving and installing Mythic from its GitHub repository.<br/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+Reviewing the provided Mitre Attack framework for engagement methods.<br/>
+<img src="https://i.imgur.com/AJYaEyL.png" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Based on this I can begin to create a payload executable. Following its creation, you can deploy it through various mediums against desired targets. However, this as far as I'll go.<br/>
+<img src="https://i.imgur.com/Ly6CYNB.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/wl63qiM.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/x5j4e3o.png" height="80%" width="80%" alt="Setup"/>
 <br />
