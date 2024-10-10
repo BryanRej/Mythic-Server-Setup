@@ -51,7 +51,13 @@ Navigating the login and homepage for the Mythic web server.<br/>
 <img src="https://i.imgur.com/bbPp0JK.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/rn5J7Op.png" height="80%" width="80%" alt="Setup"/>
 <img src="https://i.imgur.com/ArFXOio.png" height="80%" width="80%" alt="Setup"/>
-<img src="" height="80%" width="80%" alt="Setup"/>
+<br />
+
+Installing the Mythic agent Apollo. Different Mythic agents contain varying capabilities.<br/>
+<img src="https://i.imgur.com/EwkLE7X.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/2WcwsZ3.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/IHpvd1g.png" height="80%" width="80%" alt="Setup"/>
+<img src="https://i.imgur.com/7eTxMxH.png" height="80%" width="80%" alt="Setup"/>
 <br />
 
 Retrieving and installing Mythic from its GitHub repository.<br/>
